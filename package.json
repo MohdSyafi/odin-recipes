@@ -1,0 +1,22 @@
+{
+  "name": "odin-recipes",
+  "version": "1.0.0",
+  "description": "The first project to be done in TOP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohdSyafi/odin-recipes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohdSyafi/odin-recipes/issues"
+  },
+  "homepage": "https://github.com/MohdSyafi/odin-recipes#readme",
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
+}
